@@ -6,6 +6,7 @@ Note:
 4.	Output file contains the fasta headers, count of tryptic peptides, and their corresponding sequences.
 
 Command usage: python3 Insilico_Trypsin_digestion.py -i <input file> -o <output>
+
 Input file format- (Please refer the Input.txt file)
 >Sq1	MKDEDFSQNLSLDSSTLLFTHIPAIFFVLRLVYEELKLNTLMGEGICSLLNFSFSWQG
 >Sq2	PPYPYLPGICERSRLVVLSIALYILGDESSVSDESSQYLTRITVA
